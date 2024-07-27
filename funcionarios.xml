@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Vendedores>
+  <Vendedor>
+    <id_funcionario>12071</id_funcionario>
+    <Nome_do_Vendedor>João da Silva</Nome_do_Vendedor>
+    <Nível_do_Vendedor>N1</Nível_do_Vendedor>
+    <Data_de_Admissão>03/11/2022</Data_de_Admissão>
+  </Vendedor>
+  <Vendedor>
+    <id_funcionario>20372</id_funcionario>
+    <Nome_do_Vendedor>Maria Santos</Nome_do_Vendedor>
+    <Nível_do_Vendedor>N2</Nível_do_Vendedor>
+    <Data_de_Admissão>12/10/2021</Data_de_Admissão>
+  </Vendedor>
+  <Vendedor>
+    <id_funcionario>18073</id_funcionario>
+    <Nome_do_Vendedor>André Souza</Nome_do_Vendedor>
+    <Nível_do_Vendedor>N1</Nível_do_Vendedor>
+    <Data_de_Admissão>01/02/2020</Data_de_Admissão>
+  </Vendedor>
+  <Vendedor>
+    <id_funcionario>98074</id_funcionario>
+    <Nome_do_Vendedor>Carla Oliveira</Nome_do_Vendedor>
+    <Nível_do_Vendedor>N3</Nível_do_Vendedor>
+    <Data_de_Admissão>09/04/2019</Data_de_Admissão>
+  </Vendedor>
+  <Vendedor>
+    <id_funcionario>63011</id_funcionario>
+    <Nome_do_Vendedor>Lucas Pereira</Nome_do_Vendedor>
+    <Nível_do_Vendedor>N2</Nível_do_Vendedor>
+    <Data_de_Admissão>05/02/2022</Data_de_Admissão>
+  </Vendedor>
+</Vendedores>
