@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Vendedores>
+  <Vendedor>
+    <id>12071</id>
+    <Nome>João da Silva</Nome>
+    <Nível>N1</Nível>
+    <Admissão>03/11/2022</Admissão>
+  </Vendedor>
+  <Vendedor>
+    <id>20372</id>
+    <Nome>Maria Santos</Nome>
+    <Nível>N2</Nível>
+    <Admissão>12/10/2021</Admissão>
+  </Vendedor>
+  <Vendedor>
+    <id>18073</id>
+    <Nome>André Souza</Nome>
+    <Nível>N1</Nível>
+    <Admissão>01/02/2020</Admissão>
+  </Vendedor>
+  <Vendedor>
+    <id>98074</id>
+    <Nome>Carla Oliveira</Nome>
+    <Nível>N3</Nível>
+    <Admissão>09/04/2019</Admissão>
+  </Vendedor>
+  <Vendedor>
+    <id>63011</id>
+    <Nome>Lucas Pereira</Nome>
+    <Nível>N2</Nível>
+    <Admissão>05/02/2022</Admissão>
+  </Vendedor>
+</Vendedores>
